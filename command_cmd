@@ -1,0 +1,6 @@
+Extract the whole archive:
+
+npx asar extract app.asar destfolder 
+
+Extract a particular file:
+npx asar extract-file app.asar main.js
